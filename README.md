@@ -1,5 +1,5 @@
 ### Hi there, I'm Dawid Harendarz  👋
-##### Nice to see you! :sunglasses: I'm a first year student pursuing Bachelors in Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and new things in life. I'm currently trying to be Front end developer. Currently i'm working on some projects.
+#### Nice to see you! :sunglasses: I'm a first year student pursuing Engineer in Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and new things in life. I'm currently trying to be Front end developer. Currently i'm working on some projects.
 <hr>
 
 ##### :rocket: Goals for 2021
